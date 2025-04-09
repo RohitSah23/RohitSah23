@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitisog" alt="rohitisog" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rohitisog" target="blank"><img src="https://img.shields.io/twitter/follow/rohitisog?logo=twitter&style=for-the-badge" alt="rohitisog" /></a> </p>
+<p align="left"> <a href="https://twitter.com/kr_rohitsah" target="blank"><img src="https://img.shields.io/twitter/follow/kr_rohitsah?logo=twitter&style=for-the-badge" alt="kr_rohitsah" /></a> </p>
 
-- 🔭 I’m currently working on **[Monadice](https://monadice.vercel.app/)**
+- 🔭 I’m currently working on **[Swing UI](https://swingui.com/)**
 
 - 🌱 I’m currently learning **Javascript & Solidity**
 
-- 👨‍💻 All of my projects are available at [https://rohiteth.vercel.app/](https://rohiteth.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ogrohit.vercel.app/](https://ogrohit.vercel.app/)
 
 - 💬 Ask me about **Javascript , React , Solidity**
 
