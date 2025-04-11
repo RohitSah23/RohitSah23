@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **[Swing UI](https://swingui.com/)**
 
-- 🌱 I’m currently learning **Javascript & Solidity**
+- 🌱 I’m currently learning **Typescript & Foundry**
 
-- 👨‍💻 All of my projects are available at [https://ogrohit.vercel.app/](https://ogrohit.vercel.app/)
+- 👨‍💻 All of my projects are available at [Here](https://ogrohit.vercel.app/)
 
 - 💬 Ask me about **Javascript , React , Solidity**
 
