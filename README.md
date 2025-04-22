@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitisog" alt="rohitisog" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/RohitSah23" target="blank"><img src="https://img.shields.io/twitter/follow/RohitSah23?logo=twitter&style=for-the-badge" alt="RohitSah23" /></a> </p>
+[![Peerlist](https://github-readme-badge.peerlist.io/api/rohitsah23)](https://peerlist.io/rohitsah23)
 
 - 🔭 I’m currently working on **[Swing UI](https://swingui.com/)**
 
