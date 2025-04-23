@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Typescript & Foundry**
 
-- 👨‍💻 All of my projects are available at [Here](https://ogrohit.vercel.app/)
+- 👨‍💻 All of my projects are available at [Here](https://rohitsah23.vercel.app/)
 
 - 💬 Ask me about **Javascript , React , Solidity**
 
