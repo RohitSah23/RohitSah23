@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **[Swing UI](https://swingui.com/)**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [Here](https://rohitsah23.vercel.app/)
+- 👨‍💻 All of my projects are available at [Here]()
 
 - 💬 Ask me about **Javascript , React , Solidity**
 
