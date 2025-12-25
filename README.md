@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm KR Rohit</h1>
 <h3 align="center">A passionate fullstack blockchain developer from India</h3>
 <p align="center">
+  If my work helps you, consider sponsoring to support open-source ❤️
+</p>
+<p align="center">
+
+
   <a href="https://github.com/sponsors/RohitSah23">
     <img src="https://img.shields.io/badge/Sponsor-GitHub-%23ea4aaa?logo=github&logoColor=white" />
   </a>
