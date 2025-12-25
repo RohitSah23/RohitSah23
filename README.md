@@ -1,10 +1,17 @@
 <h1 align="center">Hi 👋, I'm KR Rohit</h1>
 <h3 align="center">A passionate fullstack blockchain developer from India</h3>
-
+<p align="center">
+  <a href="https://github.com/sponsors/RohitSah23">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub-%23ea4aaa?logo=github&logoColor=white" />
+  </a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RohitSah23&label=Profile%20views&color=0e75b6&style=flat" alt="RohitSah23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=RohitSah23" alt="RohitSah23" /></a> </p>
 <p align="left"> <a href="https://twitter.com/RohitSah23" target="blank"><img src="https://img.shields.io/twitter/follow/RohitSah23?logo=twitter&style=for-the-badge" alt="RohitSah23" /></a> </p>
+
+
+
 
 - 🔭 I’m currently working on **[My Portfolio](https://rohitisog.com/)**
 
