@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://x.com/RohitSah23" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/rohitisog" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/X-1DA1F2?style=flat&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://peerlist.io/RohitSah23" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Peerlist-orange?style=flat&logo=peerlist&logoColor=white" alt="Peerlist" /></a>
   <a href="https://t.me/RohitSah23" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://discord.com/users/RohitSah23" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Discord-7289da?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
