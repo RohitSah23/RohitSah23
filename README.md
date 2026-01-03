@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **[My Portfolio](https://rohitisog.com/)**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [Here](https://rohitisog.com/)
 
